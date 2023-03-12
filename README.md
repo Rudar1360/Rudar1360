@@ -1,7 +1,7 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835110.jpg)]
 <h1 align="center">Hi 👋, I'm Rudar Thakur</h1>
 <h3 align="center">Passionate DevOps and Cloud developer from India</h3>
-<img align="right" alt"Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt"Coding" width="400" src="https://i.pinimg.com/originals/88/e5/a4/88e5a4a52f0d7725c5e56364422b79fc.gif">
 
 
 
